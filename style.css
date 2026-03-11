@@ -136,6 +136,11 @@ section#my-work {
   background-color: var(--color-3);
 }
 
+#Name {
+  font-size: calc(30 / 16 * 1rem);
+  margin-left: -5rem;
+}
+
 .grid-container {
   margin-top: 3em;
   margin-bottom: 3em;
@@ -232,4 +237,5 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
 
