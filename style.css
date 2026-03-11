@@ -33,6 +33,11 @@ h3 {
   font-family: Merriweather, serif;
 }
 
+video {
+    max-width: 100%; /* Video will scale down if needed, but not up larger than its original size */
+    height: auto;    /* Maintain the aspect ratio */
+}
+
 nav {
   margin: 1em auto 3em auto;
   width: min(1000px, 100%);
@@ -227,3 +232,4 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
