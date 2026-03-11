@@ -153,7 +153,6 @@ section#my-work {
     "img-1 img-1 img-2 img-3"
     "img-1 img-1 img-4 img-5";
   gap: 1em;
-  overflow: hidden; /* ensures cropped parts are hidden */
 }
 
 .grid-container img {
@@ -161,13 +160,10 @@ section#my-work {
   height: 100%;
   border-radius: 0.5em;
   transition: 100ms ease;
-  object-fit: cover; /* This crops the image to fill the dimensions */
-  object-position: center; /* Aligns the center of the image to the center of the container (default) */
-
 }
 
 .grid-container img:hover {
-  transform: scale(1.02);
+  transform: scale(1.05);
 }
 
 details {
@@ -242,6 +238,7 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
 
 
 
