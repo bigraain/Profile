@@ -34,8 +34,8 @@ h3 {
 }
 
 #Name {
-  font-size: 2rem;
-  margin-left:2rem;
+  font-size: 2.5rem;
+  margin-left:-1rem;
 }
 
 video {
@@ -243,6 +243,7 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
 
 
 
