@@ -212,7 +212,7 @@ footer a:hover {
 
 @media (max-width: 640p) {
   nav li {
-    dispay: none;
+    display: none;
   }
 
   nav li:first-child,
@@ -241,6 +241,7 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
 
 
 
