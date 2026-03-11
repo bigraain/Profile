@@ -156,8 +156,8 @@ section#my-work {
   height: 100%;
   border-radius: 0.5em;
   transition: 100ms ease;
-  object-fit: cover;
-  object-position: center;
+  transform: translate(-10%, -10%); 
+
 }
 
 .grid-container img:hover {
@@ -236,6 +236,7 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
 
 
 
