@@ -161,6 +161,7 @@ section#my-work {
   height: 100%;
   border-radius: 0.5em;
   transition: 100ms ease;
+  scale:0.8;
   object-fit: cover; /* This crops the image to fill the dimensions */
   object-position: center; /* Aligns the center of the image to the center of the container (default) */
 
@@ -242,6 +243,7 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
 
 
 
