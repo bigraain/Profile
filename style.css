@@ -111,7 +111,7 @@ h1 {
 .cta-button {
   display: inline-block;
   text-decoration: none;
-  color: white;
+  color: #fff;
   background-color: #ffc06e;
   padding: 0.75em 1.25em;
   border-radius: 0.5em;
@@ -242,6 +242,7 @@ footer a:hover {
     font-size: 1.5rem;
   }
 }
+
 
 
 
